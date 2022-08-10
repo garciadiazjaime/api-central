@@ -1,0 +1,101 @@
+[{
+    "name": "La Espadaña",
+    "instagram": "https://www.instagram.com/laespadanatijuana/",
+    "image": "/desayuno/espadana.jpeg",
+    "description": "Donde queremos que desayune, coma y cene, casi como en su casa.",
+    "phone": "(664) 634 1488",
+    "address": "Boulevard Sanchez Taboada 10813, Zona Rio.",
+    "gmaps": "https://goo.gl/maps/yntnksKBcYd3mZ6c7",
+    "latitude": "32.5176167",
+    "longitude": "-117.0116943"
+}, {
+    "name": "Marenca Restaurante",
+    "instagram": "https://www.instagram.com/marencaoficial/",
+    "image": "/desayuno/marenca.jpeg",
+    "description": "Sabemos lo que te gusta, y lo llevamos a tu mesa.",
+    "phone": "(664) 634 6419",
+    "address": "Paseo de los Héroes 70, Zona Río.",
+    "gmaps": "https://g.page/MarencaOficial",
+    "latitude": "@32.5232425",
+    "longitude": "-117.0144563"
+}, {
+    "name": "El Yogurt Place",
+    "instagram": "https://www.instagram.com/elyogurtplace/",
+    "image": "/desayuno/yogurt-place.jpeg",
+    "description": "El Yogurt Place inició como un sueño que nunca creímos sería realidad. Era un sueño de un lugar con frutas, verduras, cereales, granos y semillas convertidas en deliciosas creaciones para cuidar de tu salud y vida.",
+    "phone": "(664) 680 2006",
+    "address": "Cantera 360, Playas De Tijuana",
+    "gmaps": "https://goo.gl/maps/XLFrYi27L9oMV8Wk6",
+    "latitude": "32.53403",
+    "longitude": "-117.120526"
+}, {
+    "name": "Riochia7 La Cabaña del Artista",
+    "instagram": "https://www.instagram.com/riochia7/",
+    "image": "/desayuno/riochia7.jpeg",
+    "description": "Arte culinario natural y fresco que creamos todos los días.",
+    "phone": "(664) 381 5069",
+    "address": "Independencia 6213, Colonia Castillo.",
+    "gmaps": "https://g.page/LaCasaDelArtistaCafeRiochia7",
+    "latitude": "32.5378025",
+    "longitude": "-117.0600504"
+}, {
+    "name": "Malvet",
+    "instagram": "https://www.instagram.com/malvetmx/",
+    "image": "/desayuno/malvet.jpeg",
+    "description": "Desayunos y Brunch desde el corazón de nuestra cocina hasta tu mesa.",
+    "phone": "(664) 378 3428",
+    "address": "Paseo Playas de Tijuana 1287",
+    "gmaps": "https://goo.gl/maps/8mcSCWjXV4yptZ5p8",
+    "latitude": "32.5011315",
+    "longitude": "-117.2455097"
+}, {
+    "name": "Café de la Flor",
+    "instagram": "https://www.instagram.com/cafedelaflor/",
+    "image": "/desayuno/cafe-flor.jpeg",
+    "description": "La compañia es el mejor alimento.",
+    "phone": "(664) 681 8633",
+    "address": "Av. Sonora 69 Fracc. Chapultepec.",
+    "gmaps": "https://g.page/LaFlorChapultepec",
+    "latitude": "32.5121183",
+    "longitude": "-117.0131064"
+} ,{
+    "name": "La Esquinita Cocina Mexicana",
+    "instagram": "https://www.instagram.com/laesquinitacocinamexicana/",
+    "image": "/desayuno/esquinita-cocina-mexicana.jpeg",
+    "description": "Donde hay comida, hay felicidad.",
+    "phone": "(664) 720 1929",
+    "address": "Av. Andrés Quintana Roo 1781.",
+    "gmaps": "https://goo.gl/maps/6KefQhoEBZ7qe4RJ6",
+    "latitude": "32.527469",
+    "longitude": "-117.0278488"
+} ,{
+    "name": "Praga cafe",
+    "instagram": "https://www.instagram.com/cafepragatj/",
+    "image": "/desayuno/praga-cafe.jpeg",
+    "description": "Vegan Sandwich, Pan de centeno oscuro, berenjena asada, alfalfa, aguacate, lechuga romana, tomate, pesto de albahaca, acompañado de puré de papa.",
+    "phone": "(664) 685 7793",
+    "address": "Av. Revolución 1070, Zona Centro.",
+    "gmaps": "https://goo.gl/maps/pqYvi3r5AjFgahhw5",
+    "latitude": "32.5321937",
+    "longitude": "-117.0364254"
+} ,{
+    "name": "San Miguel Restaurant",
+    "instagram": "https://www.instagram.com/sanmiguelrestaurante/",
+    "image": "/desayuno/san-miguel-restaurante.jpeg",
+    "description": "Te Esperamos de jueves a martes.",
+    "phone": "(664) 609 9480",
+    "address": "Parque Azteca Norte 294, Playas de Tijuana.",
+    "gmaps": "https://g.page/sanmiguelplayas",
+    "latitude": "32.5213616",
+    "longitude": "-117.1204474"
+} ,{
+    "name": "Alma Verde",
+    "instagram": "https://www.instagram.com/almaverdemx/",
+    "image": "/desayuno/alma-verde.jpeg",
+    "description": "La misión de Alma Verde es ofrecer productos de calidad, por ello utilizamos alimentos orgánicos, saludables y con muy buen sabor.",
+    "phone": "(664) 972 9607",
+    "address": "Av. Hipódromo 19, Hipódromo",
+    "gmaps": "https://goo.gl/maps/ixiaVWP3vEwFaixr7",
+    "latitude": "32.507216",
+    "longitude": "-116.99942"
+}]
