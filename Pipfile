@@ -14,9 +14,9 @@ whitenoise = "*"
 djangorestframework = "*"
 markdown = "*"
 django-filter = "*"
+django-extensions = "*"
 
 [dev-packages]
-django-extensions = "*"
 
 [requires]
 python_version = "3.9"
