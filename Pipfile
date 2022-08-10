@@ -11,6 +11,9 @@ dj-database-url = "*"
 environ = "*"
 psycopg2 = "*"
 whitenoise = "*"
+djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
 
 [dev-packages]
 
