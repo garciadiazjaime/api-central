@@ -1,13 +1,15 @@
-from django.http import HttpResponse
-from rest_framework import viewsets
+from rest_framework.generics import ListAPIView, RetrieveAPIView
 
 from restaurant.serializer import RestaurantSerializer
 from restaurant.models import Restaurant
 
 
-def index(request):
-    return HttpResponse("Hello, world. You're at the polls index.")
-
-class UserViewSet(viewsets.ModelViewSet):
+class RestaurantList(ListAPIView):
     queryset = Restaurant.objects.all()
     serializer_class = RestaurantSerializer
+
+class RestaurantDetails(RetrieveAPIView):
+    queryset = Restaurant.objects.all()
+    serializer_class = RestaurantSerializer
+    lookup_field = 'slug'
+    

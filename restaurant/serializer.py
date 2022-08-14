@@ -6,15 +6,16 @@ class RestaurantSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Restaurant
         fields = [
-            'name', 
-            'instagram', 
-            'image', 
-            'description', 
-            'category', 
-            'phone', 
-            'address', 
-            'gmaps', 
-            'latitude', 
+            'name',
+            'slug',
+            'instagram',
+            'image',
+            'description',
+            'category',
+            'phone',
+            'address',
+            'gmaps',
+            'latitude',
             'longitude'
         ]
     
