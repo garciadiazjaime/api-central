@@ -32,7 +32,7 @@ IS_HEROKU = "DYNO" in env
 SECRET_KEY = env('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 if IS_HEROKU:
     ALLOWED_HOSTS = ["*"]
